@@ -1,0 +1,70 @@
+- opcode: 21
+  operands:
+  - 0
+- opcode: 21
+  operands:
+  - 5
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 1
+- opcode: 21
+  operands:
+  - 10
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 2
+- opcode: 21
+  operands:
+  - 15
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 3
+- opcode: 21
+  operands:
+  - 20
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 4
+- opcode: 21
+  operands:
+  - 25
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 5
+- opcode: 21
+  operands:
+  - 30
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
+- opcode: 21
+  operands:
+  - 6
+- opcode: 21
+  operands:
+  - 35
+- opcode: 27
+  operands: []
+- opcode: 13
+  operands: []
